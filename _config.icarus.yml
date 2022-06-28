@@ -225,11 +225,11 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: CHAI JE HYUNG
         # Author title
-        author_title: Your title
+        author_title: GOD IS GOOD ALL THE TIME
         # Author's current location
-        location: Your location
+        location: SEOUL.KOREA
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
@@ -237,15 +237,15 @@ widgets:
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: https://github.com/ppoffice
+        follow_link: https://github.com/westar99
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: https://github.com/ppoffice
+                url: https://github.com/westar99
             Facebook:
                 icon: fab fa-facebook
-                url: https://facebook.com
+                url: https://www.facebook.com/jehyung.chai
             Twitter:
                 icon: fab fa-twitter
                 url: https://twitter.com
